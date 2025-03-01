@@ -1,3 +1,9 @@
+HEAD
 change1 main2
 change2 main2
 change3 main2
+
+change1 main1
+change2 main1
+change3 main1
+main
